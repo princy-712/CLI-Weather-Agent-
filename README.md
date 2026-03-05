@@ -59,6 +59,8 @@ Do not push API keys or venv folder to GitHub.
 
 
 
+<img width="836" height="329" alt="Screenshot 2026-03-05 at 11 46 47 PM" src="https://github.com/user-attachments/assets/2936c1ff-efc8-46e8-ba19-0ce51ce59ef2" />
+
 
 
 
